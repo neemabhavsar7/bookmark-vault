@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+.venv/
+
+# Tooling caches
+.pytest_cache/
+
+# Local SQLite database
+*.db
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
